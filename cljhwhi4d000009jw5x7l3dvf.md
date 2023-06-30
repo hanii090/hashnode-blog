@@ -55,6 +55,3 @@ So, these are the four phases I would go through if I would have to do it again:
 3. Specialize and Master
     
 4. Build Impactful Apps
-    
-
-If you're in Phase 2 and want to explore mobile development.
