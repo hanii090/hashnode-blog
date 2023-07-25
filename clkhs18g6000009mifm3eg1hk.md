@@ -8,7 +8,7 @@ tags: ai, artificial-intelligence, automation, openai, chatgpt
 
 ---
 
-Fear of [artificial intelligence](https://www.techopedia.com/definition/190/artificial-intelligence-ai) (AI) destroying jobs still permeates the narrative surrounding technology. But what is often overlooked are the many ways it will supplement many jobs that exist today and perhaps create a number of new ones.
+Fear of artificial intelligence (AI) destroying jobs still permeates the narrative surrounding technology. But what is often overlooked are the many ways it will supplement many jobs that exist today and perhaps create a number of new ones.
 
 It has often been said that anyone displaced by automation did not lose their job to technology but to another person who knew how to leverage that technology to make themselves more productive. AI is no different in that regard.
 
@@ -16,7 +16,7 @@ In fact, judging by recent online activity, demand is strong for jobs that incor
 
 ## **Peak Interest**
 
-According to CoinckoGecko, [Google searches for “AI Jobs” is running at about four times the level of “Crypto Jobs”](https://www.coingecko.com/research/publications/crypto-ai-jobs-search-trends?utm_campaign=Data%2BVisualization&utm_medium=social) at its peak in early 2022. The upswing seems to have begun in November of 2022 with the release of [ChatGPT](https://www.techopedia.com/definition/34933/chatgpt) by [OpenAI](https://www.techopedia.com/definition/32225/openai) and topped out at a search interest score of 124 in April before sliding back to about 100 last month.
+According to CoinckoGecko, [Google searches for “AI Jobs” is running at about four times the level of “Crypto Jobs”](https://www.coingecko.com/research/publications/crypto-ai-jobs-search-trends?utm_campaign=Data%2BVisualization&utm_medium=social) at its peak in early 2022. The upswing seems to have begun in November of 2022 with the release of **ChatGPT** by **OpenAI** and topped out at a search interest score of 124 in April before sliding back to about 100 last month.
 
 Even in the months following the peak of Bitcoin’s (BTC) valuation in November of 2021, its job search interest score never made it past 30, which is probably reflective of AI’s more mainstream appeal to a wide variety of job seekers.
 
@@ -26,7 +26,7 @@ Even in the months following the peak of Bitcoin’s (BTC) valuation in November
 
 The good news, says Visual Capitalist, is that more than [800,000 AI-related jobs were posted in the U.S. alone last year](https://www.visualcapitalist.com/top-us-states-for-ai-jobs/), with California leading the pack at nearly 18% of the total. This was more than double that of the next-most active state, Texas, which contributed about 8.4%. Though, it is important to note that while California’s percentage has been declining over the past decade, Texas’s is on the rise.
 
-As for the skills in demand for AI-related jobs, the top one cited in job postings is [Python](https://www.techopedia.com/definition/3533/python), at 37%. This is followed by [general computer science](https://www.techopedia.com/definition/592/computer-science), at 33%, and then [SQL](https://www.techopedia.com/definition/1245/structured-query-language-sql) and [data science](https://www.techopedia.com/definition/30202/data-science) and analytics, at 23% and 20%, respectively. Closing the list are things like [automation](https://www.techopedia.com/definition/32099/automation), [Java](https://www.techopedia.com/definition/3927/java), and [software engineering](https://www.techopedia.com/definition/13296/software-engineering), at 17% each.
+As for the skills in demand for AI-related jobs, the top one cited in job postings is **Python**, at 37%. This is followed by **general computer science**, at 33%, and then **SQL** and [data science](https://www.techopedia.com/definition/30202/data-science) and analytics, at 23% and 20%, respectively. Closing the list are things like **automation**, **Java**, and **software engineering**, at 17% each.
 
 ## **What Skills Are Needed to Land an AI Job?**
 
@@ -44,31 +44,31 @@ At the same time, we can expect certain industries to deploy AI at a more rapid 
 
 In Handshake’s analysis, the top areas for AI jobs are:
 
-* [Healthcare](https://www.techopedia.com/9-uses-of-generative-ai-in-healthcare)
+* Healthcare
     
-* [Finance](https://www.techopedia.com/heres-how-ai-can-help-prevent-the-next-financial-crisis)
+* Finance
     
-* [Supply chain](https://www.techopedia.com/2/31846/trends/big-data/how-machine-learning-can-improve-supply-chain-efficiency)
+* Supply chain
     
 * Government
     
-* [Human resources](https://www.techopedia.com/smart-hr-how-ai-is-transforming-talent-acquisition/2/34667)
+* Human resources
     
 
 All of these fields rely on complex, integrated workflows that require large amounts of data and rapid turn-around of analytics and service delivery, providing fertile soil for skilled practitioners to let their AI seeds grow.
 
 ### **What About the Salaries?**
 
-For those who do become adept at developing and managing AI models, the prospect of high-paying jobs is bright. Career guidance specialist Vault Firsthand notes that skills in [natural language processing](https://www.techopedia.com/definition/653/natural-language-processing-nlp) (NLP) command salaries in the [$80,000-$100,000 range](https://firsthand.co/blogs/salary-and-benefits/5-high-paying-jobs-in-artificial-intelligence), while business intelligence and robotics engineering can top $130,000.
+For those who do become adept at developing and managing AI models, the prospect of high-paying jobs is bright. Career guidance specialist Vault Firsthand notes that skills in **natural language processing (NLP)** command salaries in the **$80,000-$100,000** range, while business intelligence and robotics engineering can top $130,000.
 
-If [Big Data](https://www.techopedia.com/definition/27745/big-data) is your thing, salaries of $150,000 or more are not uncommon, and high demand for [machine learning](https://www.techopedia.com/definition/8181/machine-learning-ml) skills is pushing those jobs over $200,000.
+If **Big Data** is your thing, salaries of $150,000 or more are not uncommon, and high demand for **machine learning** skills is pushing those jobs over $200,000.
 
 ## **Not Without Its Challenges**
 
-The farther out we project the AI era, of course, the more difficult it is to gauge the job market. [Computer networking](https://www.techopedia.com/definition/25598/computer-networking) existed long before the [Internet](https://www.techopedia.com/definition/2419/internet), but few could foresee the ubiquity of its modern iteration and the plethora of jobs it has spawned – not just technical jobs in wired and wireless networking, but things like [SEO](https://www.techopedia.com/a-step-by-step-guide-to-seo-for-web-devs/2/34862) analyst and [social media](https://www.techopedia.com/definition/4837/social-media) director, as well.
+The farther out we project the AI era, of course, the more difficult it is to gauge the job market. Computer networking existed long before the Internet, but few could foresee the ubiquity of its modern iteration and the plethora of jobs it has spawned – not just technical jobs in wired and wireless networking, but things like SEO analyst and social media director, as well.
 
 ## **The Bottom Line**
 
-AI has the potential to create all manner of new jobs, probably new business models, and even entirely new industries. Not everyone has to become a specialist in the mind-bending math of software coding and data science, just like modern salesmen don’t need to know how to troubleshoot their [CRM platforms](https://www.techopedia.com/crm/best-crm-software).
+AI has the potential to create all manner of new jobs, probably new business models, and even entirely new industries. Not everyone has to become a specialist in the mind-bending math of software coding and data science, just like modern salesmen don’t need to know how to troubleshoot their CRM platforms.
 
 But knowledge of how AI functions and what needs to be done to achieve desired results is essential – and the time to start learning those skills is now when the technology is still in a nascent stage of development.
