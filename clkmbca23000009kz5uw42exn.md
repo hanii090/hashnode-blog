@@ -10,7 +10,7 @@ tags: aws, react-native, aws-cdk, awsamplify, awsamplifyhackathon
 
 # Frontend
 
-In this article, we will walk you through the process of building a Paywalled Content-Sharing App content-sharing application using React Native. Inspired by OnlyFans, this app allows creators to share exclusive content behind a paywall, with users directly supporting them. We will cover both the front-end and back-end aspects of the application, making it accessible for both iOS and Android users. Let's dive into the step-by-step guide!
+In this article, we will walk you through the process of building a Paywalled Content-Sharing App content-sharing application using React Native. ***<mark>Inspired by OnlyFans </mark>*** this app allows creators to share exclusive content behind a paywall, with users directly supporting them. We will cover both the front-end and back-end aspects of the application, making it accessible for both iOS and Android users. Let's dive into the step-by-step guide!
 
 We'll set up the project using the
 
