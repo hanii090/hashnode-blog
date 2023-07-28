@@ -1,16 +1,16 @@
 ---
-title: "Exploring the Power of React Native & AWS Amplify in Creating a Full-Stack OnlyFans Clone"
+title: "Exploring the Power of React Native & AWS Amplify in Creating a Full-Stack Paywalled Content-Sharing App"
 seoDescription: "Discover the power of AWS Amplify - the perfect tool for building and deploying web and mobile apps. Get expert insights on AWS, Amplify, and Hashnode"
 datePublished: Fri Jul 28 2023 08:19:57 GMT+0000 (Coordinated Universal Time)
 cuid: clkmbca23000009kz5uw42exn
-slug: exploring-the-power-of-react-native-aws-amplify-in-creating-a-full-stack-onlyfans-clone
+slug: exploring-the-power-of-react-native-aws-amplify-in-creating-a-full-stack-paywalled-content-sharing-app
 tags: aws, react-native, aws-cdk, awsamplify, awsamplifyhackathon
 
 ---
 
 # Frontend
 
-In this article, we will walk you through the process of building an OnlyFans content-sharing application using React Native. Inspired by OnlyFans, this app allows creators to share exclusive content behind a paywall, with users directly supporting them. We will cover both the front-end and back-end aspects of the application, making it accessible for both iOS and Android users. Let's dive into the step-by-step guide!
+In this article, we will walk you through the process of building a Paywalled Content-Sharing App content-sharing application using React Native. Inspired by OnlyFans, this app allows creators to share exclusive content behind a paywall, with users directly supporting them. We will cover both the front-end and back-end aspects of the application, making it accessible for both iOS and Android users. Let's dive into the step-by-step guide!
 
 We'll set up the project using the
 
@@ -155,7 +155,7 @@ export default withAuthenticator(App);
 > 
 > Query User Data: Use the `datastore.query` method to fetch user data and set the results in the state using the `setUsers` setter.
 
-Congratulations on successfully building the OnlyFans backend using AWS Amplify.
+Congratulations on successfully building the Paywalled Content-Sharing App backend using AWS Amplify.
 
 ***By following the step-by-step guide, you have successfully implemented authentication, database modeling, and data querying. The possibilities for further enhancements and features are limitless. Happy coding!***
 
