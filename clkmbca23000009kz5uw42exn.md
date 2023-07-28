@@ -1,9 +1,9 @@
 ---
-title: "Exploring the Power of React Native & AWS Amplify in Creating a Full-Stack Paywalled Content-Sharing App"
+title: "Exploring the Power of React Native & AWS Amplify in Creating a Full-Stack OnlyFans Clone"
 seoDescription: "Discover the power of AWS Amplify - the perfect tool for building and deploying web and mobile apps. Get expert insights on AWS, Amplify, and Hashnode"
 datePublished: Fri Jul 28 2023 08:19:57 GMT+0000 (Coordinated Universal Time)
 cuid: clkmbca23000009kz5uw42exn
-slug: exploring-the-power-of-react-native-aws-amplify-in-creating-a-full-stack-paywalled-content-sharing-app
+slug: exploring-the-power-of-react-native-aws-amplify-in-creating-a-full-stack-onlyfans-clone
 tags: aws, react-native, aws-cdk, awsamplify, awsamplifyhackathon
 
 ---
