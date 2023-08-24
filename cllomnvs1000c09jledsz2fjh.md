@@ -8,7 +8,7 @@ tags: interview, internships, google, coding, jobs
 
 ---
 
-Motivated by the belief that we learn more from failures than successes, today I'm sharing my personal story about failing the Google Coding interview in late 2019. I believe this ordeal taught me valuable lessons which I later applied to sail through the same interview two years later.
+Motivated by the belief that we learn more from failures than successes, today I'm sharing my personal story about failing the Google Coding interview in late 2021. I believe this ordeal taught me valuable lessons which I later applied to sail through the same interview two years later.
 
 ## How I got the Google Interview
 
