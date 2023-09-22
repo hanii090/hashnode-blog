@@ -5,6 +5,7 @@ seoDescription: "Discover the secrets to mastering AI and unlocking wealth in th
 datePublished: Fri Sep 22 2023 00:22:25 GMT+0000 (Coordinated Universal Time)
 cuid: clmtuxvgt000009l22t8gely0
 slug: how-to-learn-ai-and-get-rich-in-the-ai-revolution
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695342302920/8075745d-db5d-4907-b6d2-047f32be07bd.png
 tags: artificial-intelligence, python, machine-learning, deep-learning, chatgpt
 
 ---
@@ -38,6 +39,8 @@ Once you have a good grip on mathematics, step over to statistics. Statistics is
 "Everything comes back to programming", as they say, and in the machine learning world, everything comes down to Python. Sure, with new languages like Julia emerging on the horizon, it can get quite challenging to pick the right one. However, Python remains the safe choice for now.
 
 The best way to get started with Python is to focus on the basics and build upon it. Resources like [learnpython.org](http://www.learnpython.org/) offer a lot of hands-on exercises to brush up on your Python skills.
+
+![](https://cdn.videotap.com/Ashoag6Lc9dpTZ81Ktqr-235.81.png align="center")
 
 ## Machine Learning: The Meat and Bones
 
