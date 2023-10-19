@@ -53,7 +53,7 @@ While the direction of restaking still lies in the realm of speculation, the sub
 
 If you’re excited about the possibilities and opportunities that blockchain and the restaking era have to offer, your journey to becoming a blockchain wizard can begin today. Just remember that the inherent risks in this venture should not be ignored. Still, with solid knowledge of blockchain technology and a clear understanding of effective strategies, your step towards commanding control of the crypto space could be right around the corner. Happy trading!
 
-```code
+```bash
 Plug into the restaking eraStart your journey in the crypto spaceMitigate risks and amplify your returns
 ```
 
