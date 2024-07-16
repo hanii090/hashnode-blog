@@ -1,10 +1,10 @@
 ---
-title: "ADHD-Friendly Productivity: How Our Notion Template Transforms Task Management"
-seoTitle: "Notion Template for ADHD-Friendly Task Management"
+title: "Unlock Your ADHD-Friendly Productivity with Our Notion Template"
+seoTitle: "Unlock Your ADHD-Friendly Productivity with Our Notion Template"
 seoDescription: "Optimize ADHD task management with our customizable Notion template, including time tracking, scheduling, and journaling for better productivity"
 datePublished: Tue Jul 16 2024 08:16:54 GMT+0000 (Coordinated Universal Time)
 cuid: clyo53x3a000b09l45yj7cgd6
-slug: adhd-friendly-productivity-how-our-notion-template-transforms-task-management
+slug: unlock-your-adhd-friendly-productivity-with-our-notion-template
 tags: productivity, notion, adhd, task-management, notion-templates
 
 ---
