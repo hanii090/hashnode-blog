@@ -5,6 +5,7 @@ seoDescription: "Optimize ADHD task management with our customizable Notion temp
 datePublished: Tue Jul 16 2024 08:16:54 GMT+0000 (Coordinated Universal Time)
 cuid: clyo53x3a000b09l45yj7cgd6
 slug: unlock-your-adhd-friendly-productivity-with-our-notion-template
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721118025504/a03f4399-b6ab-44ab-a516-afe63036678c.jpeg
 tags: productivity, notion, adhd, task-management, notion-templates
 
 ---
